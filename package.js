@@ -1,0 +1,11 @@
+{
+ "name": "lonewolves-bot",
+ "version": "1.0.0",
+ "main": "index.js",
+ "dependencies": {
+  "discord.js": "^14.14.1",
+  "@discordjs/voice": "^0.16.0",
+  "play-dl": "^1.9.7",
+  "ffmpeg-static": "^5.1.0"
+ }
+}
